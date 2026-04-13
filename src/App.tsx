@@ -13,6 +13,7 @@ const notes = [
 
 export default function App() {
   return (
+    // Content
     <main className="shell">
       <section className="hero">
         <p className="eyebrow">Laboratorio 1 · Despliegue con GitHub</p>
